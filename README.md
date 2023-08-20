@@ -1,5 +1,7 @@
 ### Hi there 👋
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tailfoxt.tailfoxt)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=tailfoxt.tailfoxt&left_color=green&right_color=blue)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=tailfoxt.tailfoxt&left_color=#FFA500&right_color=#800080)
 
 <!--
 **tailfoxt/tailfoxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
