@@ -104,3 +104,30 @@ Some good ones:
 Share links for others to connect with you (Twitter, LinkedIn, Email, etc.)
 
 This will showcase your profile highlights in an organized way. Make sure to customize it to reflect your personal brand and strengths!
+
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=30&pause=1000&color=FB3640&center=true&vCenter=true&width=450&lines=Hello%2C+I+am+Tanmay+Kalbande)](https://git.io/typing-svg)
+
+📧 Email: kalbandetanmay@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/tanmay-kalbande](https://www.linkedin.com/in/tanmay-kalbande/)
+
+### Objective
+As a data science enthusiast with a strong foundation in statistical analysis, machine learning, and data visualization, I aim to leverage my skills to provide valuable insights for data-driven decision-making.
+
+### Technical Summary
+- Education: B.E. in Mechanical Engineering
+- Experience: 1-2 years in data science, including predictive modeling.
+- Programming: Proficient in Python (NumPy, Pandas, Scikit-learn, Jupyter).
+- SQL: Familiarity with SQL Server and Spark.
+- Analytics: Knowledge in machine learning (supervised/unsupervised), deep learning, neural networks, and NLP.
+- Problem Solving: Analytical and troubleshooting skills.
+- Visualization: Experienced in Tableau and PowerBI.
+- Statistical Skills: Proficient in applied statistics and probability distributions.
+- Communication: Strong written and verbal communication skills.
+- Interests: Passionate about AI, Big Data, NLP, Ethical AI, Deep Learning, and TinyML.
+
+### Contact
+For more information, feel free to reach out via email or connect with me on LinkedIn.
+
+
