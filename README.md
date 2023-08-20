@@ -28,3 +28,4 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=your.username.your.repo.id&left_color=chocolate&right_color=00bfff)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=30&pause=1000&color=FB3640&center=true&vCenter=true&width=450&lines=Hello%2C+I+am+Tanmay+Kalbande)](https://git.io/typing-svg)
+[![Viewer Count](https://img.shields.io/github/watchers/tanmay-kalbande/tanmay-kalbande.svg?label=Viewer%20Count&color=%23FB3640FF&style=flat-square)](https://github.com/tanmay-kalbande/tanmay-kalbande)
