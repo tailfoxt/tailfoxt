@@ -19,6 +19,13 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=your.username.your.repo.id&left_color=indigo&right_color=coral)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=your.username.your.repo.id&left_color=6a5acd&right_color=9932cc)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=your.username.your.repo.id&left_color=olive&right_color=d2691e)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=your.username.your.repo.id&left_color=gold&right_color=purple)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=your.username.your.repo.id&left_color=teal&right_color=coral)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=your.username.your.repo.id&left_color=lime&right_color=magenta)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=your.username.your.repo.id&left_color=turquoise&right_color=orchid)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=your.username.your.repo.id&left_color=crimson&right_color=708090)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=your.username.your.repo.id&left_color=cyan&right_color=4b0082)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=your.username.your.repo.id&left_color=chocolate&right_color=00bfff)
 
 <!--
 **tailfoxt/tailfoxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
