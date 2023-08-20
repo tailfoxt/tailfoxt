@@ -4,6 +4,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tailfoxt.tailfoxt&left_color=#FFA500&right_color=#800080)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tailfoxt.tailfoxt&left_color=orange&right_color=blue)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tailfoxt.tailfoxt&left_color=%23FF5733&right_color=%230080FF)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=your.username.your.repo.id&left_color=orange&right_color=blue)
 
 <!--
 **tailfoxt/tailfoxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
