@@ -27,4 +27,4 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=your.username.your.repo.id&left_color=cyan&right_color=4b0082)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=your.username.your.repo.id&left_color=chocolate&right_color=00bfff)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FB3640&center=true&vCenter=true&width=435&lines=Hello%2C+I+am+Tanmay+Kalbande)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=30&pause=1000&color=FB3640&center=true&vCenter=true&width=450&lines=Hello%2C+I+am+Tanmay+Kalbande)](https://git.io/typing-svg)
