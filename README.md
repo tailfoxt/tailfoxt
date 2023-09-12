@@ -1,6 +1,3 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=tanmay-kalbande&left_color=crimson&right_color=008080)
-
-
 ### Hi there 👋
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tailfoxt.tailfoxt)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tailfoxt.tailfoxt&left_color=green&right_color=blue)
