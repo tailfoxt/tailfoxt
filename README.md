@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=tanmay-kalbande.github.io&left_color=crimson&right_color=008080)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=tanmay-kalbande&left_color=crimson&right_color=008080)
 
 
 ### Hi there 👋
